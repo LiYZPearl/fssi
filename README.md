@@ -1,7 +1,7 @@
 # fssi
 Fluid-structure-soil Interaction 
 
-A one-way coupling fluid-structure-soil interaction toolbox.
+This is a one-way coupling fluid-structure-soil interaction toolbox for wave-induced seabed response around coastal and offshore structures. The soil solvers include liquefaction analysis with various liquefaction criteria. 
 
 For any usage of these models please refer to
 
